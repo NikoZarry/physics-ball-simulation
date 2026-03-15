@@ -2,7 +2,7 @@
 
 An interactive browser-based physics simulation of a bouncing ball with real-time energy and momentum diagnostics. Built with vanilla HTML, CSS, and JavaScript — no libraries or frameworks.
 
-**[Live Demo](#)** ← *(open `index.html` in any browser)*
+**[Live Demo](https://nikozarry.github.io/physics-ball-simulation/)** ← *(runs in any browser, no install needed)*
 
 ## What It Simulates
 
